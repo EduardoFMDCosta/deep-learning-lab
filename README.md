@@ -1,6 +1,6 @@
 # deep-learning-lab
 
-**deep-learning-lab** repository contains the code for small-scale experiments with Deep Learning techniques. Most of the activities were originally proposed by Professor Stephane Gaiffas (University of Paris, LPSM) during the Deep Learning course of the MSc in Applied Mathematics at University of Paris in 2021. For detailed information on the course, refer to the comprehensive [course page](https://stephanegaiffas.github.io/deep_learning/).
+**deep-learning-lab** repository contains the code for small-scale experiments with Deep Learning techniques. Most of the activities were originally proposed by Professor Stephane Gaiffas (University of Paris, LPSM) during the Deep Learning course of the MSc in Applied Mathematics at University of Paris in 2021. For detailed information on the course, please refer to the comprehensive [course page](https://stephanegaiffas.github.io/deep_learning/).
 
 Notebooks marked with (*) are based on the code structure provided by Prof. Gaiffas. You can find the original notebooks on the aforementioned web page.
 
