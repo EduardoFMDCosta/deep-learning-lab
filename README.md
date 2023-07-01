@@ -7,3 +7,4 @@ Notebooks marked with (*) are based on the code structure provided by Prof. Gaif
 The repository includes the following notebooks:
 
 - **A fashionable use case: clothing classification with fashion-mnist** (*): this introductory notebook presents the implementation of multiple neural networks (using TensorFlow) with the goal to accurately predict clothing types based on images from the [Fashion MNIST dataset](https://www.kaggle.com/datasets/zalando-research/fashionmnist).
+- **How does the optimizer choice affect features transferability?**: in this project, we re-run the main analysis made in Kornblith, Simon, et al (2021) - see References in the notebook - building convolutional models in which the only change is the choice of the optimizer (instead of the loss function). This was presented as the final project of the Deep Learning course at University of Paris. 
