@@ -1,2 +1,5 @@
 # Fashion-MNIST dataset, downloaded by the notebook
 data/
+
+# Local editor settings
+.vscode/
